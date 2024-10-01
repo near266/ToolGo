@@ -1,4 +1,4 @@
-module github.com/near266/jetbra-activate
+module github.com/near266/ToolGo
 
 go 1.21.5
 
